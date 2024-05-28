@@ -38,11 +38,19 @@ This project not only pushes the boundaries of machine learning in audio analysi
 
 ### Image Collection
 
-![Machine Learning Detection Sound](https://github.com/rezapace/Machine-Learning-Sound-Detection/blob/main/image/Upload.jpg?raw=true)
+<table>
+  <tr>
+    <td><img src="https://github.com/rezapace/Machine-Learning-Sound-Detection/blob/main/image/Upload.jpg?raw=true" alt="Figma 1"></td>
+    <td><img src="https://github.com/rezapace/Machine-Learning-Sound-Detection/blob/main/image/existing.jpg?raw=true" alt="Figma 2"></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img src="https://github.com/rezapace/Machine-Learning-Sound-Detection/blob/main/image/Structur.jpg?raw=true" alt="Postman"></td>
+    <td><img src="https://github.com/rezapace/Machine-Learning-Sound-Detection/blob/main/image/Evaluate.jpg?raw=true" alt="Database"></td>
+  </tr>
+</table>
 
-![Machine Learning Detection Sound](https://github.com/rezapace/Machine-Learning-Sound-Detection/blob/main/image/existing.jpg?raw=true)
-
-![Machine Learning Detection Sound](https://github.com/rezapace/Machine-Learning-Sound-Detection/blob/main/image/Structur.jpg?raw=true)
 
 ---
 
