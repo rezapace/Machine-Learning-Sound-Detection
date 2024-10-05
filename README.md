@@ -1,5 +1,23 @@
 # Machine Learning Detection Sound 🔉
 
+# HOW TO RUN PROJECT
+
+1. Download the Jupyter notebook:
+   ```bash
+   wget https://github.com/rezapace/Machine-Learning-Sound-Detection/releases/download/Dataset/v3.ipynb
+   ```
+
+2. Open Google Colab:
+   [https://colab.research.google.com/#create=true](https://colab.research.google.com/#create=true)
+
+3. Upload the downloaded `v3.ipynb` file to Google Colab.
+
+4. Run the notebook:
+   - Execute each cell in order
+   - Follow the instructions provided in the notebook comments
+
+Note: Make sure you have a Google account to use Google Colab. If you encounter any issues, please refer to the [project repository](https://github.com/rezapace/Machine-Learning-Sound-Detection) for troubleshooting or to report problems.
+
 download here: [Machine Learning Detection Sound](https://github.com/rezapace/Machine-Learning-Sound-Detection/releases/download/Dataset/v3.ipynb)
 
 version:
