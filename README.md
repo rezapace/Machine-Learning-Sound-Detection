@@ -1,5 +1,7 @@
 # Machine Learning Detection Sound 🔉
 
+---
+
 # HOW TO RUN PROJECT
 
 1. Download the Jupyter notebook:
@@ -17,6 +19,9 @@
    - Follow the instructions provided in the notebook comments
 
 Note: Make sure you have a Google account to use Google Colab. If you encounter any issues, please refer to the [project repository](https://github.com/rezapace/Machine-Learning-Sound-Detection) for troubleshooting or to report problems.
+
+
+---
 
 download here: [Machine Learning Detection Sound](https://github.com/rezapace/Machine-Learning-Sound-Detection/releases/download/Dataset/v3.ipynb)
 
